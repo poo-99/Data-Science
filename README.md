@@ -1,2 +1,2 @@
 # Data-Science
-Data Science Assignmnets
+I have done assignments on the all topics from the Data Science.
